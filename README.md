@@ -2,7 +2,7 @@
 
 Classe : - Controleur 
          - Fenetre
-         - Niveau (avec tout les niveaux)
+         - Niveaux (avec tout les niveaux)
          - SolitaireChess
          - (Autre ?)
          
